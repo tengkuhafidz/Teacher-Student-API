@@ -19,4 +19,4 @@ MYSQL_PASSWORD_MONITORING=monitoring
 ### Running the project
 1. Ensure you have Node.js installed on your machine 
 2. Open the project folder and run `npm install` in the project folder
-3. Run `npm start`. The server will run at port 3000
+3. Run `npm start`. The server will run on port 3000
