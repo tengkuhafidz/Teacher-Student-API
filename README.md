@@ -6,7 +6,7 @@
 3. Run this command on your CLI to pull mysql-alpine for the docker `docker pull quay.io/perriea/alpine-mysql:1.0`
 4.  Go to the project folder and run `docker run -d -p 3306:3306 --env-file .env quay.io/perriea/alpine-mysql:1.0`
 
-### MYSQL Settings (as in .env)
+#### MYSQL Settings (as in .env)
 ```
 MYSQL_DATABASE=app
 MYSQL_ROOT_PASSWORD=root
